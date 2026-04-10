@@ -3,7 +3,12 @@ Data Analyst Portfolio Projects
 
 This repository contains a collection of data analysis and data cleaning projects focusing on SQL exploration and Tableau visualization. These projects demonstrate skills in data manipulation, exploratory data analysis (EDA), and creating interactive dashboards.
 
+
 📂 Project Overview
+
+
+
+
 1. COVID-19 Data Exploration
 
 Tools Used: SQL (MySQL/SQL Server), Tableau
@@ -24,6 +29,8 @@ Percentage of the population infected by country and continent.
 Rolling count of vaccinations per location using Partition By.
 
 Visualization: An interactive Tableau dashboard displaying global statistics, percent population infected by country, and forecasted infection rates.
+
+
 
 
 
@@ -50,12 +57,16 @@ Deleting Unused Columns: Streamlining the dataset by removing redundant columns 
 
 
 
+
+
 🛠️ Technologies Used
 SQL: Primary tool for data extraction, transformation, and cleaning.
 
 Tableau: Used for high-level data visualization and storytelling.
 
 Excel/CSV: Source data format for all projects.
+
+
 
 
 
@@ -68,10 +79,14 @@ Data: The raw data files are provided in the root directory for reproducibility.
 
 
 
+
+
 📈 Insights and Results
 The COVID-19 analysis reveals significant disparities in vaccination rates across different continents.
 
 The Nashville Housing project reduced the dataset complexity and improved data integrity by resolving over 200+ address discrepancies and removing duplicate entries.
+
+
 
 
 
