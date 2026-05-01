@@ -85,9 +85,3 @@ Data: The raw data files are provided in the root directory for reproducibility.
 The COVID-19 analysis reveals significant disparities in vaccination rates across different continents.
 
 The Nashville Housing project reduced the dataset complexity and improved data integrity by resolving over 200+ address discrepancies and removing duplicate entries.
-
-
-
-
-
-Covid DashBoard Link : https://public.tableau.com/app/profile/hanishka.kela/viz/CovidDashBoard_17750551809200/Dashboard1?publish=yes
